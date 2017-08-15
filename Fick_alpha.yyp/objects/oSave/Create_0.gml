@@ -7,7 +7,9 @@ ini_write_real("tst","TST",500);
 global.est = ini_read_real("tst","TST",404);
 ini_close();
 
+
 //testtest
+
 //global.savedBonusScr;
 /*
 if (file_exists("Save2.dat"))
