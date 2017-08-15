@@ -9,7 +9,7 @@ ini_close();
 
 
 
-test = "testtesttest";
+test = "testtesttest1111111111";
 
 //global.savedBonusScr;
 /*
