@@ -1,12 +1,13 @@
 /// @description Insert description here
 // You can write your code in this editor
 global.Save = 1;
-global.est = 300;
-ini_open(working_directory + "temp_ini.ini");
-ini_write_real("tst","TST",500);
-global.est = ini_read_real("tst","TST",404);
+global.high_scr = 300;
+ini_open(working_directory + "stats.ini");
+//ini_write_real("tst","TST",500);
+global.high_scr = ini_read_real("score","SCORE",highscore_value(1));
 ini_close();
 
+highscore_add("",global.high_scr);
 
 //testtest
 
