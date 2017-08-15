@@ -3,13 +3,10 @@
 global.Save = 1;
 global.est = 300;
 ini_open(working_directory + "temp_ini.ini");
-//ini_write_real("tst","TST",500);
+ini_write_real("tst","TST",500);
 global.est = ini_read_real("tst","TST",404);
 ini_close();
 
-
-
-test = "testtesttest";
 
 //global.savedBonusScr;
 /*
