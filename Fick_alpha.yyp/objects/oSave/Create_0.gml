@@ -8,12 +8,8 @@ global.est = ini_read_real("tst","TST",404);
 ini_close();
 
 
-<<<<<<< HEAD
+//testtest
 
-test = "testtesttest1111111111";
-
-=======
->>>>>>> save_test
 //global.savedBonusScr;
 /*
 if (file_exists("Save2.dat"))
