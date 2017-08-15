@@ -1,0 +1,15 @@
+{
+    "id": "6d6d6ee5-7d32-45e5-a6e8-c3be8643eb6f",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "6d6d6ee5-7d32-45e5-a6e8-c3be8643eb6f",
+    "children": [
+        "45c2022d-62d3-42a8-91ff-6afef0a3e066",
+        "10b0a568-ffdb-4475-89f9-651a7b881def",
+        "05949cac-0f79-4256-9d9f-a636187b0247"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Menu",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}
