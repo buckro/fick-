@@ -10,10 +10,12 @@ instance_create_layer(0, 0, "Instances", oCountdown);
 
 audio_play_sound(snd_complete,10,false);
 
+
 with(oPlayer) {
 x = xstart;
 y = ystart;
 }
 
 with(oPlayer) speed = 0;
+
 

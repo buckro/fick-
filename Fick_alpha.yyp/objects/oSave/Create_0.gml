@@ -5,6 +5,12 @@ global.high_scr = 300;
 ini_open(working_directory + "stats.ini");
 //ini_write_real("tst","TST",500);
 global.high_scr = ini_read_real("score","SCORE",highscore_value(1));
+global.savedBonusScr = ini_read_real("bonus","bonusScore",0);
+global.spriteUnlock1= ini_read_real("sprite","Sprite1",false);
+global.spriteUnlock2= ini_read_real("sprite","Sprite2",false);
+global.spriteUnlock3= ini_read_real("sprite","Sprite3",false);
+global.spriteUnlock4= ini_read_real("sprite","Sprite4",false);
+global.spriteUnlock5= ini_read_real("sprite","Sprite5",false);
 ini_close();
 
 highscore_add("",global.high_scr);
