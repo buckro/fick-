@@ -11,6 +11,7 @@ if (global.savedBonusScr > 20)
 	//room_goto(start);
 	ini_open(working_directory + "stats.ini");
 	ini_write_real("sprite","Sprite2",true);
+	ini_write_real("sprite","selectedSprite",global.spriteSelect);
 	ini_close();
 }
 

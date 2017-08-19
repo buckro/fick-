@@ -6,6 +6,9 @@ if (global.spriteUnlock1)
 {
 	global.spriteSelect = 1;
 	room_goto(start);
+	ini_open(working_directory + "stats.ini");
+	ini_write_real("sprite","selectedSprite",global.spriteSelect);
+	ini_close();
 }
 
 /*

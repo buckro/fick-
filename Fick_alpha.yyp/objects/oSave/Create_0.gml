@@ -11,6 +11,8 @@ global.spriteUnlock2= ini_read_real("sprite","Sprite2",false);
 global.spriteUnlock3= ini_read_real("sprite","Sprite3",false);
 global.spriteUnlock4= ini_read_real("sprite","Sprite4",false);
 global.spriteUnlock5= ini_read_real("sprite","Sprite5",false);
+
+global.spriteSelect= ini_read_real("sprite","selectedSprite",0);
 ini_close();
 
 highscore_add("",global.high_scr);
