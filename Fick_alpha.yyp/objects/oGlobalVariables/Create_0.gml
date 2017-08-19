@@ -1,6 +1,6 @@
 /// @description Creates Global Variables at Start
 
-global.spriteSelect = 0; 
+//global.spriteSelect = 0; 
 //these should be false
 /*
 global.spriteUnlock1= true;
