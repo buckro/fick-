@@ -438,6 +438,25 @@
             }
         },
         {
+            "Key": "30517d6f-026a-49cd-8aef-b92249eed747",
+            "Value": {
+                "id": "45c74920-2d9f-4c77-a865-939fe3594ba5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sReturn\/sReturn.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "3a7d87d0-e58c-440f-ae9e-f0245663c031",
             "Value": {
                 "id": "7a0c6965-d6a6-4d73-a964-cf537c0566bb",
@@ -967,6 +986,25 @@
                 ],
                 "resourcePath": "sprites\/sBG_splash\/sBG_splash.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8ea346df-30e8-4a28-a51c-ac6db4a8c03a",
+            "Value": {
+                "id": "0d6b8114-888a-45bb-838e-82d08a1994d5",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oReturn\/oReturn.yy",
+                "resourceType": "GMObject"
             }
         },
         {
