@@ -951,6 +951,25 @@
             }
         },
         {
+            "Key": "8b46e6d8-b012-4dae-ad0c-72192386b09a",
+            "Value": {
+                "id": "2c4bb521-a8f4-4bf1-b3c8-16863f820365",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sBG_splash\/sBG_splash.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "945d68fa-1bf3-448d-a923-bd0f6d4c526f",
             "Value": {
                 "id": "61efaaa9-919b-4f63-90ca-8caeb9d16705",
@@ -1157,6 +1176,25 @@
                 ],
                 "resourcePath": "views\/c75109e4-da53-4ed8-aa02-d12e8ce7f5e0.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "cfd4bff9-c978-4ebd-aa47-2d7fd37c64b3",
+            "Value": {
+                "id": "9c32b6cb-5924-4bfc-b720-deea8d9e030e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oSplashScreen\/oSplashScreen.yy",
+                "resourceType": "GMObject"
             }
         },
         {

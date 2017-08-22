@@ -6,7 +6,8 @@
     "children": [
         "45c2022d-62d3-42a8-91ff-6afef0a3e066",
         "10b0a568-ffdb-4475-89f9-651a7b881def",
-        "05949cac-0f79-4256-9d9f-a636187b0247"
+        "05949cac-0f79-4256-9d9f-a636187b0247",
+        "cfd4bff9-c978-4ebd-aa47-2d7fd37c64b3"
     ],
     "filterType": "GMObject",
     "folderName": "Menu",
