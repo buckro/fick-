@@ -144,8 +144,8 @@
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
                     "name": "inst_522E5A08",
-                    "x": 192,
-                    "y": 800,
+                    "x": 26.5,
+                    "y": 256,
                     "IsDnD": false,
                     "colour": {
                         "Value": 4294967295
@@ -156,8 +156,8 @@
                     "name_with_no_file_rename": "inst_522E5A08",
                     "objId": "8ea346df-30e8-4a28-a51c-ac6db4a8c03a",
                     "rotation": 0,
-                    "scaleX": 0.464684039,
-                    "scaleY": 0.466666639
+                    "scaleX": 0.214684054,
+                    "scaleY": 0.716666639
                 }
             ]
         },
