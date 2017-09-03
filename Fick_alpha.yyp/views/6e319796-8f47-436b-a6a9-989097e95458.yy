@@ -11,7 +11,9 @@
         "53c87774-cfe8-44be-aa75-515703b0f41f",
         "ef49892f-b0a3-4d24-af56-87f55e753eb5",
         "e1610449-de10-4bbc-8c09-99d22f4cb9ac",
-        "15782c1c-d03d-447b-85ba-9b8e3670d08e"
+        "15782c1c-d03d-447b-85ba-9b8e3670d08e",
+        "e4543c04-34d2-4cfc-91b1-d9e1ef91e278",
+        "2da81f6c-e373-47b1-86dc-79d0a88d013e"
     ],
     "filterType": "GMObject",
     "folderName": "Game Management",

@@ -438,6 +438,25 @@
             }
         },
         {
+            "Key": "2da81f6c-e373-47b1-86dc-79d0a88d013e",
+            "Value": {
+                "id": "4f786d9e-40b2-490a-b720-a8e0269190ac",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oBoundray_H\/oBoundray_H.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "30517d6f-026a-49cd-8aef-b92249eed747",
             "Value": {
                 "id": "45c74920-2d9f-4c77-a865-939fe3594ba5",
@@ -685,6 +704,25 @@
             }
         },
         {
+            "Key": "56c0c4f6-bd44-461e-80b9-46cfd324d3f5",
+            "Value": {
+                "id": "48b33803-63a8-4a2f-bba7-2ad88ba4a0ee",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sBiundary_H\/sBiundary_H.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5839adca-92c7-4fdf-aeb4-600aee35e4b3",
             "Value": {
                 "id": "6f878a98-d7e1-41ae-9bbe-b233d5f13d1a",
@@ -853,6 +891,25 @@
                 ],
                 "resourcePath": "views\/79bdc665-1ea5-4e1a-9c96-434dd5d62687.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7b095673-284f-4949-a1c4-180ec72706a8",
+            "Value": {
+                "id": "d2125542-e841-45d4-805c-318037355812",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/sBoundry_V\/sBoundry_V.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1385,6 +1442,25 @@
                 ],
                 "resourcePath": "options\/android\/options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "e4543c04-34d2-4cfc-91b1-d9e1ef91e278",
+            "Value": {
+                "id": "736a381a-7c7d-404d-85b9-9ab403ec9689",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/oBoundray_V\/oBoundray_V.yy",
+                "resourceType": "GMObject"
             }
         },
         {
